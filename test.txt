@@ -1,2 +1,2 @@
 tests
-test2
+test2.
